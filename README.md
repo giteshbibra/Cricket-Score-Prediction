@@ -1,1 +1,2 @@
-# Cricket-Score-Prediction
+# Predict-Score
+using Linear Regression
